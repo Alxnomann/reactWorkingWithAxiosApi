@@ -1,3 +1,4 @@
+<img width="1346" height="615" alt="Screenshot_1" src="https://github.com/user-attachments/assets/e871953e-9849-410b-90a4-8eeb7b540f11" />
 # React Axios API CRUD App
 
 A simple **React.js** project demonstrating **CRUD operations** (Create, Read, Update, Delete) using the **[JSONPlaceholder](https://jsonplaceholder.typicode.com/)** fake REST API.  
