@@ -25,18 +25,3 @@ It is deployed and live here: **[Live Demo](https://react-axiosapi.netlify.app/)
 - **API:** JSONPlaceholder Fake REST API  
 
 ---
-
-## 📦 Installation and Setup
-```bash
-# 1. Clone the repository
-git clone https://github.com/your-username/react-axios-crud.git
-
-# 2. Navigate to the project directory
-cd react-axios-crud
-
-# 3. Install dependencies
-npm install
-
-# 4. Start the development server
-npm run dev
-<img width="1346" height="615" alt="Screenshot_1" src="https://github.com/user-attachments/assets/1ce90a80-8175-4842-a80e-997df9b60d6f" />
