@@ -17,11 +17,6 @@ It is deployed and live here: **[Live Demo](https://react-axiosapi.netlify.app/)
 
 ---
 
-## 📸 Screenshots
-![App Screenshot](https://via.placeholder.com/800x400?text=React+Axios+CRUD+App)
-
----
-
 ## 🛠️ Tech Stack
 - **Frontend:** React.js (Vite)  
 - **API Requests:** Axios  
